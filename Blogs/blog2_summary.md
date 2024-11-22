@@ -26,6 +26,7 @@ K3s, a lightweight Kubernetes distribution by Rancher Labs, offers a resource-ef
 - Install K3s on the master node with a single command:
   ```bash
   curl -sfL https://get.k3s.io | sh -
+  ```
 
 
 ### Retrieve the node-token from the master node and install K3s on the worker node, pointing it to the master.
@@ -34,9 +35,9 @@ K3s, a lightweight Kubernetes distribution by Rancher Labs, offers a resource-ef
 
 ### Verify Cluster:
 Ensure the master and worker nodes are registered and active in the K3s cluster:
-
-### sudo k3s kubectl get nodes
-
+```bash
+sudo k3s kubectl get nodes
+```
 ---
 
 ### Deploy Applications:
