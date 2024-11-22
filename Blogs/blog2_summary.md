@@ -25,7 +25,8 @@ K3s, a lightweight Kubernetes distribution by Rancher Labs, offers a resource-ef
 ### 2. Install K3s:
 - Install K3s on the master node with a single command:
   ```bash
-curl -sfL https://get.k3s.io | sh -
+  curl -sfL https://get.k3s.io | sh -
+
 
 ### Retrieve the node-token from the master node and install K3s on the worker node, pointing it to the master.
 
@@ -35,6 +36,7 @@ curl -sfL https://get.k3s.io | sh -
 Ensure the master and worker nodes are registered and active in the K3s cluster:
 ```bash
 sudo k3s kubectl get nodes
+
 
 ### Deploy Applications:
 Deploy an Nginx application and expose it via NodePort. Access the app using the master node’s public IP and assigned port.
