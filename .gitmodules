@@ -1,0 +1,3 @@
+[submodule "starter-workflows"]
+	path = starter-workflows
+	url = https://github.com/AzmeerSohail/starter-workflows.git
