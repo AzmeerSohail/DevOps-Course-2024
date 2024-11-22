@@ -52,13 +52,3 @@ I invite collaboration and feedback to make this repository more comprehensive a
 - Collaborate on the guides to expand and refine content.  
 
 Feel free to fork this repository, raise issues, or submit pull requests to contribute!  
-
----  
-
-## Connect With Me  
-Want to collaborate or discuss DevOps? Let’s connect!  
-📧 **Email:** [Your Email Address Here]  
-🔗 **LinkedIn:** [Your LinkedIn Profile Link Here]  
-✍️ **Medium Blog:** [Your Blog Link Here]  
-
-[**Download My CV**](./"E:\chromedownloads\Azmeer_Resume.pdf")  
