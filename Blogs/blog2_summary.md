@@ -34,8 +34,8 @@ K3s, a lightweight Kubernetes distribution by Rancher Labs, offers a resource-ef
 
 ### Verify Cluster:
 Ensure the master and worker nodes are registered and active in the K3s cluster:
-```bash
-sudo k3s kubectl get nodes
+ ``bash
+sudo k3s kubectl get nodes 
 
 
 ### Deploy Applications:
