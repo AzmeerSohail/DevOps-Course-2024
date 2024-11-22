@@ -37,7 +37,7 @@ Ensure the master and worker nodes are registered and active in the K3s cluster:
 
 ### sudo k3s kubectl get nodes
 
-
+---
 
 ### Deploy Applications:
 Deploy an Nginx application and expose it via NodePort. Access the app using the master node’s public IP and assigned port.
