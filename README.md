@@ -27,7 +27,7 @@ A passionate learner and aspiring DevOps Engineer with a focus on creating effic
 - **Medium:** [https://medium.com/@i212977]
 - 
 ## **Sample CV**
-You can view my CV [here]().
+You can view my CV [here](https://github.com/AzmeerSohail/DevOps-Course-2024/blob/main/Azmeer_Resume.pdf)
 ---  
 
 ## DevOps Expertise  
