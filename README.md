@@ -1,6 +1,3 @@
-# DevOps-Course-2024-
-Assignment 3 for Devops
-
 # DevOps Course 2024: Learning and Contribution Guide  
 
 ## About This Repository  
