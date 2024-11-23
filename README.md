@@ -24,8 +24,10 @@ A passionate learner and aspiring DevOps Engineer with a focus on creating effic
 📫 **Get in Touch:**  
 - **Email:** [azmeersohail03@gmail.com]  
 - **LinkedIn:** [https://www.linkedin.com/in/azmeer-sohail-3381b62bb/]  
-- **Medium:** [https://medium.com/@i212977]  
-
+- **Medium:** [https://medium.com/@i212977]
+- 
+## **Sample CV**
+You can view my CV [here]().
 ---  
 
 ## DevOps Expertise  
