@@ -25,9 +25,7 @@ A passionate learner and aspiring DevOps Engineer with a focus on creating effic
 - **Email:** [azmeersohail03@gmail.com]  
 - **LinkedIn:** [https://www.linkedin.com/in/azmeer-sohail-3381b62bb/]  
 - **Medium:** [https://medium.com/@i212977]
---- 
-## **Sample CV**
-You can view my CV [here](https://github.com/AzmeerSohail/DevOps-Course-2024/blob/main/Azmeer_Resume.pdf)
+
 ---  
 
 ## DevOps Expertise  
@@ -51,3 +49,7 @@ I invite collaboration and feedback to make this repository more comprehensive a
 - Collaborate on the guides to expand and refine content.  
 
 Feel free to fork this repository, raise issues, or submit pull requests to contribute!  
+
+---
+## **Sample CV**
+You can view my CV [here](https://github.com/AzmeerSohail/DevOps-Course-2024/blob/main/Azmeer_Resume.pdf)
